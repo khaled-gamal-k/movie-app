@@ -1,0 +1,15 @@
+// GENERATED CODE - DO NOT MODIFY BY HAND
+
+part of 'production_company.dart';
+
+// **************************************************************************
+// JsonSerializableGenerator
+// **************************************************************************
+
+ProductionCompany _$ProductionCompanyFromJson(Map<String, dynamic> json) =>
+    ProductionCompany(
+      id: (json['id'] as num?)?.toInt(),
+      logoPath: json['logo_path'] as String?,
+      name: json['name'] as String?,
+      originCountry: json['origin_country'] as String?,
+    );
