@@ -1,7 +1,7 @@
-# 🎬 MovieVerse
+# 🎬 CINEMAX
 
 A modern Flutter movie browsing app built with **Clean Architecture**, **Cubit**, and **TMDB API**.
-Explore trending movies, watch trailers, view cast information, and enjoy a polished cinematic experience.
+Explore Popular & Upcoming movies, watch trailers, view production information, and enjoy a polished cinematic experience.
 
 ---
 
@@ -50,7 +50,6 @@ carousel_slider
 youtube_player_flutter
 dartz
 shimmer
-
 ```
 
 ---
@@ -67,19 +66,19 @@ lib/
  │   ├── shared/
  │   ├── themes/
  │   └── utils/
- ├── data/
- │   ├── models/
- │   └── repos/
- ├── domain/
- │   ├── repos/
- │   └── usecases/
- ├── presentation/
- │   ├── cubit/
- │   ├── views/
- │   └── widgets/
  └── features/
      ├── onboarding/
      ├── movie/
+     |   ├── data/
+     |   │   ├── models/
+     |   │   └── repos/
+     |   ├── domain/
+     |   │   ├── repos/
+     |   │   └── usecases/
+     |   ├── presentation/
+     |   │   ├── cubit/
+     |   │   ├── views/
+     |   │   └── widgets/
      ├── movie_details/
 ```
 

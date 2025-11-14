@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
       minTextAdapt: true,
       builder: (context, child) => child!,
       child: MaterialApp.router(
-        title: 'My App',
+        title: 'CINEMAX',
         debugShowCheckedModeBanner: false,
         theme: AppTheme.darkTheme,
         routerConfig: AppRouter.router,
