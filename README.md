@@ -24,9 +24,9 @@ Explore Popular & Upcoming movies, watch trailers, view production information, 
 ## 📸 Screenshots
 
 
-| Onboarding                      | Home                      | Details                      | Trailer                      |
+| Onboarding                      | Home                      | Details                      | Popular                      |
 | ------------------------------- | ------------------------- | ---------------------------- | ---------------------------- |
-| ![](screenshots/onboarding.png) | ![](screenshots/home.png) | ![](screenshots/details.png) | ![](screenshots/trailer.png) |
+| ![](screenshots/onboarding.jpg) | ![](screenshots/home.jpg) | ![](screenshots/details.jpg) | ![](screenshots/popular.jpg) |
 
 ---
 
